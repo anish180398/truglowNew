@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /* background-color: yellow; */
+  height: 200%;
+  overflow: 'scroll';
+}
+
+.Animation {
+  position: fixed;
+}
+header {
+  position: fixed;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
